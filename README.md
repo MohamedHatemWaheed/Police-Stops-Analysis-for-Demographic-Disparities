@@ -36,8 +36,7 @@ This Python analysis project, part of my NeuronetiX internship, focuses on explo
 - **Data Cleaning**: Enhanced skills in preprocessing data for effective analysis, ensuring accuracy and reliability of results.
 
 ## Video Demonstration
-
-Click the thumbnail below to watch the video on Vimeo:
+Click the thumbnail below to watch the project presentation video:
 
 [![Video Thumbnail](https://drive.google.com/uc?export=view&id=1DKjWshbREfg2KPBueMthGXJ-s_AgYq8e)](https://vimeo.com/1053225130/3f7d75af03?share=copy)
 

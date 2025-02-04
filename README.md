@@ -35,4 +35,8 @@ This Python analysis project, part of my NeuronetiX internship, focuses on explo
 - **Data Analysis**: Employed Pandas for data manipulation and analysis, allowing for in-depth insights into the dataset.
 - **Data Cleaning**: Enhanced skills in preprocessing data for effective analysis, ensuring accuracy and reliability of results.
 
+- ## Project Video
+Watch the detailed explanation of the project in the video: [Watch the video]([https://drive.google.com/uc?export=download&id=1abcd2efghijKLMNOPQRstuvwxYZ](https://drive.google.com/file/d/1huw29UhC6QDJYVXZ6FL6W9DvoP8LRG9Y/view?usp=drive_link))
+
+
 This project allowed me to refine my data analysis skills, leveraging expert-level techniques to provide meaningful insights into police stop patterns and their implications for law enforcement practices.

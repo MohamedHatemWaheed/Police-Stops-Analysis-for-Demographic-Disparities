@@ -34,13 +34,12 @@ This Python analysis project, part of my NeuronetiX internship, focuses on explo
 - **Data Visualization**: Created detailed visualizations using libraries such as Matplotlib and Seaborn.
 - **Data Analysis**: Employed Pandas for data manipulation and analysis, allowing for in-depth insights into the dataset.
 - **Data Cleaning**: Enhanced skills in preprocessing data for effective analysis, ensuring accuracy and reliability of results.
-# My Project
 
 ## Video Demonstration
 
 Click the thumbnail below to watch the video on Vimeo:
 
-[![Video Thumbnail](https://i.imgur.com/your-thumbnail-image.png)](https://vimeo.com/1053225130/3f7d75af03?share=copy)
+[![Video Thumbnail](https://drive.google.com/uc?export=view&id=1DKjWshbREfg2KPBueMthGXJ-s_AgYq8e)](https://vimeo.com/1053225130/3f7d75af03?share=copy)
 
 
 
